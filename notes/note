@@ -1,0 +1,5 @@
+project req:
+- use redux and router
+- use third party components
+- host it on AWS or at least Firebase
+- URL reflects state
